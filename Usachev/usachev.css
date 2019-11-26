@@ -1,0 +1,23 @@
+h1 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 24;
+color: rgb(223, 95, 21);
+text-shadow: 1px 1px 2px rgb(11, 4, 68);
+text-align: center;
+margin-top: 20pt;
+margin-left: 10%;
+margin-right: 10%;
+margin-bottom: 60pt;}
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14;
+    color: rgb(9, 10, 44);
+    text-align: center;
+    }
+    div {width: max-content;
+    background-color: floralwhite;
+    text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-block-start: 0%;
+width: max-content;
+height: 100vh}
+    body {background: linear-gradient(to top, rgb(8, 84, 119) 20%, rgb(29, 134, 175) 50%, rgb(135, 159, 161) 80%);}
