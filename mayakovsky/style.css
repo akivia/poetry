@@ -1,0 +1,8 @@
+.poem-section {
+  text-align: center; 
+}
+.poem-section p{
+    display: flex;
+ justify-content: center;
+  text-align: left;
+}
